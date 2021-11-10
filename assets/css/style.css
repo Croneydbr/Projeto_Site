@@ -36,9 +36,17 @@ img.lado{
     float: right;
 }
 
+perfilimg {
+  float: center;
+}
+
 a {
     text-decoration: none;
     color: rgb(50, 0, 112);
+}
+
+#aboutme {
+  text-align: justify
 }
 
 a:hover{    
